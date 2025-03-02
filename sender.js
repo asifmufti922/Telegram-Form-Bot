@@ -14,7 +14,7 @@ var sender = function () {
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "https://api.telegram.org/bot"7845089182:AAEKfLND6ZJurXLg_u72FdzbdSW_3DTVMkw"/sendMessage",
+        "url": "https://api.telegram.org/bot7845089182:AAEKfLND6ZJurXLg_u72FdzbdSW_3DTVMkw/sendMessage",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json",
